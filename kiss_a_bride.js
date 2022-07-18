@@ -1,0 +1,1 @@
+console.log("You may now kiss your bride!");
